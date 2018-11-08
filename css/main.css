@@ -9,6 +9,7 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
+  margin: 0;
 }
 
 .img-flex {
@@ -37,8 +38,8 @@ body {
   display: inline;
   font-size: 4rem;
   color: #fff;
+  font-weight: bold;
   background-color: rgba(0, 0, 0, .5);
-
 }
 
 .banner-info p {
